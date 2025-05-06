@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/m.zeghdoud_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.zeghdoud_" height="30" width="40" /></a>
 <a href="https://dribbble.com/zeghdouddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="zeghdouddd" height="30" width="40" /></a>
-<a href="https://www.behance.net/mohamed zeghdoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamed zeghdoud" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohamedzeghdoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedzeghdoud" height="30" width="40" /></a>
 <a href="https://medium.com/@mohammedzaghdoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammedzaghdoud" height="30" width="40" /></a>
 </p>
 
@@ -20,7 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zeghdoud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeghdoud" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzeghdoud&show_icons=true&locale=en&layout=compact" alt="mzeghdoud" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzeghdoud&" alt="mzeghdoud" /></p>
