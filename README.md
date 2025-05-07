@@ -1,10 +1,22 @@
+
+<p align="center"><img src="https://i.pinimg.com/originals/92/82/fc/9282fc0dbe01e651cdba3591c63b91be.gif" width="100%" height="auto"/></p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=37F704&background=115BFF00&width=435&lines=Curiosity+is+the+hacker%E2%80%99s+greatest+weapon" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Mohamed Zeghdoud</h1>
 <h3 align="center">A Security Research and Programmer From Morocco</h3>
 
 - 👨‍💻 All of my projects are available at [https://buymeacoffee.com/zeghdoud](https://buymeacoffee.com/zeghdoud)
-
-- 📝 I regularly write articles on [https://medium.com/@Mohammedzaghdoud](https://medium.com/@Mohammedzaghdoud)
-
+- 📝 I regularly write articles on [https://medium.com/@Mohammedzaghdoud](https://medium.com/@Mohammedzaghdoud)  
+- 🕵🏼 i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective spy**
+  Improving knowledge in **Webapp Vulnerabilities**
+  Lifelong learner — always exploring **everything**
 - 📫 How to reach me **Mohammedzaghdoud82@gmail.com**
   
 <div align="center">
@@ -23,7 +35,15 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/archlinux/archlinux-original-wordmark.svg" height="40" alt="rust logo"  />
   <img width="12" />
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/powershell/powershell-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
@@ -46,3 +66,12 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zeghdoud">
   </a>
 </div>
+
+
+<p align="center">
+  <b><i>"No Risk. No Rish."</i></b>
+</p>
+
+<p align="center">
+<a>✌🏻</a>
+</p>
